@@ -16,3 +16,5 @@
 dotnet run
 ```
 4. Відкрийте у браузері [http://localhost:5000](http://localhost:5000)
+
+Посилання на репозиторій з кодом [https://github.com/synz666/JobCenter]
